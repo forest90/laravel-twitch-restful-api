@@ -14,9 +14,6 @@
     }
   },
   "minimum-stability": "dev",
-  "require": {
-    "guzzlehttp/guzzle": "~5.0@dev"
-  },
   "require-dev": {
     "phpdocumentor/phpdocumentor": "dev-master"
   }
